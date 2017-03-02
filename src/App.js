@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import promo from '../promo.png';
+import promo from '../promo.jpg';
 
 const words = `
 Coming Soon
